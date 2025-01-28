@@ -16,3 +16,5 @@ This project focuses on analyzing retail sales data using SQL queries. The goal 
 ### Tools
    - SQL: For Data cleaning and data validation
    - SQL: For Analysis
+#### Note
+Go to the files Section for this project Query and Solution
